@@ -84,7 +84,7 @@ Role didefinisikan di `App\Enums\AdminRole` (spatie/laravel-permission):
 
 | Role                  | Akses                                                        |
 | --------------------- | ------------------------------------------------------------ |
-| `admin`               | Semua grup (superadmin): audit log, backup, reset password   |
+| `admin Website`       | Semua grup (Admin Website): audit log, backup, reset password|
 | `bidang-pengendalian` | Grup Pengendalian                                            |
 | `bidang-sampah-lb3`   | Grup Sampah & LB3                                            |
 | `bidang-tata-penataan`| Grup Tata Penataan                                           |
